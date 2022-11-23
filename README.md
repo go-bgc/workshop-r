@@ -6,6 +6,6 @@ Please access the BGC-Argo-R Toolbox at: https://github.com/euroargodev/BGC-ARGO
 <br>
 **Tutorial Recordings:**
 <br>
-BGC Argo data overview: https://youtu.be/sJHioPp7fDo
+BGC Argo data overview: https://youtu.be/--3PubEoMT0
 <br>
-R tutorial session: https://youtu.be/w_6pEGNXQQ4
+R tutorial session: https://youtu.be/n9zXJirgmc0
